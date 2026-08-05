@@ -8,8 +8,9 @@ Graduation Year         : 2026
 Degree Percentage       : 80.0
 Active Backlogs         : 0
 -----------------------------------------------
+Aptitude Score          : 47 / 50
 Aptitude Percentage     : 95.0
-Coding Test Cases       : 99100
+Coding Test Cases       : 99 /  100
 Coding Percentage       : 99.0
 Communication Score     : 95
 Project Completed       : true

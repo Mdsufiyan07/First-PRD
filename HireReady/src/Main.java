@@ -38,8 +38,9 @@ System.out.println("Active Backlogs         : "+ activeBacklogs);
 
  System.err.println("-----------------------------------------------");
 
+System.out.println("Aptitude Score          : 47 / 50");
 System.out.println("Aptitude Percentage     : "+ aptitudePercentage);
-System.out.println("Coding Test Cases       : "+codingTestCasesPassed +"100");
+System.out.println("Coding Test Cases       : "+codingTestCasesPassed +" /  100");
 System.out.println("Coding Percentage       : "+ codingPercentage);
 System.out.println("Communication Score     : "+ communicationScore);
 System.out.println("Project Completed       : "+ projectCompleted);
