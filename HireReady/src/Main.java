@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String[] args){
-       String candidateName = "Sufiyan";
+       String candidateName = "Mohammed Sufiyan U S";
     int registrationNumber = 47;
     String degree = "BE ISE";
     int graduationYear = 2026;
